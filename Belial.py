@@ -21,7 +21,7 @@ def usage():
     print "|   Belial 0.0.1     |"
     print "|--------------------|"
     print "[ a netcat-based tool]"
-    print "[ author: NOTHING    ]"
+    print "[ author: M0tHs3C    ]"
     print "[~~~~~~~~~~~~~~~~~~~~]"
     print
     print " usage: Belial.py -t target_host -p port"
